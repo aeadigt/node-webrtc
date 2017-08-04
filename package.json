@@ -1,5 +1,5 @@
 {
-  "name": "wrtc",
+  "name": "node-webrtc",
   "description": "Standards-compliant WebRTC implementation for Node",
   "keywords": [
     "webrtc",
